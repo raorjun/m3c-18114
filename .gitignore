@@ -1,0 +1,18 @@
+__pycache__/
+*/__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# JetBrains IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+.idea_modules/
+
+m3c/
+venv/
+env/
+.venv/
+.env/
